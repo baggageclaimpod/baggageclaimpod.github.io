@@ -2168,7 +2168,7 @@ hr {
         -moz-object-fit: cover;
         -webkit-object-fit: cover;
         -ms-object-fit: cover;
-        object-fit: cover;
+        object-fit: contain;
         -moz-object-position: center;
         -webkit-object-position: center;
         -ms-object-position: center;
